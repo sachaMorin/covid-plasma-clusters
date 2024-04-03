@@ -1,5 +1,6 @@
 # covid-plasma-clusters
 [![medrXiv](https://img.shields.io/badge/medrXiv-2023.06.14.23290814-0e4c92.svg)](https://www.medrxiv.org/content/10.1101/2023.06.14.23290814v1)
+[![DOI](https://zenodo.org/badge/781508630.svg)](https://zenodo.org/doi/10.5281/zenodo.10912522)
 
 Notebook to reproduce the main results of our paper *Sustained IFN signaling is associated with delayed development of SARS-CoV-2-specific immunity*.
 
